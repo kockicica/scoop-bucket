@@ -1,6 +1,0 @@
-{
-    "version": "1.0",
-    "description": "test hello powershell script",
-    "url": "https://gist.github.com/lukesampson/6446238/raw/hello.ps1",
-    "bin": "hello.ps1"
-}
