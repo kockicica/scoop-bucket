@@ -7,5 +7,6 @@
         "64bit": {
             "url": "https://storage.googleapis.com/recipebook-e50f0.appspot.com/Tekelija.CLI-win-x64-10.0.0-alpha.2454.7z"
         }
-    }
+    },
+    "bin": [["Tekelija.CLI.exe", "tekelija-cli"]]
 }
