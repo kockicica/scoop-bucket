@@ -7,7 +7,7 @@
     "architecture": {
         "64bit": {
             "url": "https://storage.googleapis.com/recipebook-e50f0.appspot.com/Tekelija.CLI-win-x64-10.0.0-alpha.2460.zip",
-            "hash": "fe22124da027a927c1f78c6afaf0036368354c0237dba03e2028bc39dc3d7689"
+            "hash": "020c3ff6ea30428193af9ab76f105d4d62dbd01ceee560190a4c5a2d00b03540"
         }
     },
     "bin": ["Tekelija.CLI.exe", ["Tekelija.CLI.exe", "tekelija-cli"]]
