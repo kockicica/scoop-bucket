@@ -5,8 +5,8 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://storage.googleapis.com/recipebook-e50f0.appspot.com/Authenticatomatic.CLI-linux-x64-5.1.0-alpha.1.zip",
-            "hash": "753c2d29b32dd440b5bd1a8b631d114411f6949cfb6ccbd25fa551915788049a"
+            "url": "https://storage.googleapis.com/recipebook-e50f0.appspot.com/Authenticatomatic.CLI-win-x64-5.1.0-alpha.1.zip",
+            "hash": "b04a490f17117ce75eae49a9ebbc69ef9ccfbd2f04c9bd44c7172652ca54ad73"
         }
     },
     "bin": [
