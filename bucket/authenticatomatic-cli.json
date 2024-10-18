@@ -10,7 +10,7 @@
         }
     },
     "bin": [
-        "Authenticatomatic.CLI.exe", 
+        "Authenticatomatic.CLI.exe",
         ["Authenticatomatic.CLI.exe", "authenticatomatic-cli"],
         ["Authenticatomatic.CLI.exe", "auth-cli"]
     ]
