@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://storage.googleapis.com/recipebook-e50f0.appspot.com/Authenticatomatic.CLI-win-x64-5.1.0-alpha.1.zip",
-            "hash": "b04a490f17117ce75eae49a9ebbc69ef9ccfbd2f04c9bd44c7172652ca54ad73"
+            "hash": "6ab173761bd8a6fa35d2964837a36a20993a6b138582e7c022f612f7208b9e7e"
         }
     },
     "bin": [
