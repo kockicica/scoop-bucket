@@ -1,13 +1,13 @@
 
 {
-    "version": "10.11.0-alpha.212",
+    "version": "10.11.0-alpha.214",
     "description": "Tekelija command line utility",
     "homepage": "https://tekelija.gitlab.io",
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://storage.googleapis.com/recipebook-e50f0.appspot.com/Tekelija.CLI-win-x64-10.11.0-alpha.212.zip",
-            "hash": "69598d4215342339628d3059c2f8398fa876eb21f541766730cf28d483f9ecc5"
+            "url": "https://storage.googleapis.com/recipebook-e50f0.appspot.com/Tekelija.CLI-win-x64-10.11.0-alpha.214.zip",
+            "hash": "e9feae9ef221e0f9b32bcd31f85293f409e561397a445d7585d980c4d58ef41e"
         }
     },
     "bin": ["Tekelija.CLI.exe", ["Tekelija.CLI.exe", "tekelija-cli"]]
